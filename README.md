@@ -1,4 +1,5 @@
 # smfretpostanalypub
+[![DOI](https://zenodo.org/badge/696608317.svg)](https://zenodo.org/badge/latestdoi/696608317)
 
 ![smpostanalypub_intro _v2](https://github.com/shyuklee/smfretpostanalypub/assets/6265815/26ea85ae-08c2-4607-84ae-7a4730256198)
 
